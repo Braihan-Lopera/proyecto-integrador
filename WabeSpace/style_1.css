@@ -262,3 +262,16 @@ footer {
     transform: scale(1.1);
     padding: 10px 10px;
 }
+
+/*publicacion 1*/
+.Titulop1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
