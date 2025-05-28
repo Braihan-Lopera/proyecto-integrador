@@ -487,11 +487,12 @@
 
     .carousel{
         
-        height: 550px;
+        height: 800px;
         position: relative;
         overflow: hidden;
-        margin-top: 50px;
+        margin-top: 20px;
         margin-bottom: 50px;
+        
         
         img{
 
@@ -614,8 +615,10 @@
     }
     
     #encabezado{
-        width: 90%;
-        height: 650px;
+        
+        height: 900px;
+        margin: 50px;
+        width: 100%;
     
     }
     
